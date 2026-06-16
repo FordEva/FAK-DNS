@@ -11001,6 +11001,7 @@
 [/aichaoxing.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/aichat.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/aichat1234.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/aichaxun.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/aichehome.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/aichi-zhe.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/aichinaw.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -15124,6 +15125,7 @@
 [/bdbae.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/bdc-rays.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/bdcb.cc/]114.114.114.114 https://223.5.5.5/dns-query
+[/bdcgslb.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/bdcgz.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/bdchangtujs.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/bdchina.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -20857,6 +20859,7 @@
 [/chartboost-china.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/chase-secure55.wiki/]114.114.114.114 https://223.5.5.5/dns-query
 [/chasedorisu.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/chasedream.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/chaseyanyu.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/chashebao.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/chashudi.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -26325,6 +26328,7 @@
 [/csgjhzzx.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/csgjjt.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/csgkjt.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/csgky.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/csgocn.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/csgongshui.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/csgpc.org/]114.114.114.114 https://223.5.5.5/dns-query
@@ -50976,6 +50980,7 @@
 [/ikunac.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ikuncdnfb.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ikunpay.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/ikutu.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ikx.me/]114.114.114.114 https://223.5.5.5/dns-query
 [/ikzybf.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/il8r.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -51024,6 +51029,7 @@
 [/ilmgq.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ilohas.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/iloli.bid/]114.114.114.114 https://223.5.5.5/dns-query
+[/iloli.love/]114.114.114.114 https://223.5.5.5/dns-query
 [/iloli.xin/]114.114.114.114 https://223.5.5.5/dns-query
 [/ilongre.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ilovechao.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -51274,6 +51280,7 @@
 [/imsun.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/imsyy.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/imtaweb.net/]114.114.114.114 https://223.5.5.5/dns-query
+[/imtedge.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/imtics.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/imtmp.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/imtrwqjier3.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -53981,6 +53988,7 @@
 [/jiemo.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/jiemodui.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/jiemoselect.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/jiemu5.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/jienyl.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/jiepai.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/jiepaids.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -58179,6 +58187,7 @@
 [/kfcbest.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kfcdn.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kfcjrl.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/kfcrm.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kfd3sm2c.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kfdcc.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kffone.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -59330,6 +59339,7 @@
 [/kunduo.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kungfucloud.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kungfuenglish.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/kungfumars.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kunguankeji.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/kunguanyx.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/kunjuke.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -63983,6 +63993,7 @@
 [/m2mlib.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/m2mzy.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/m2time.net/]114.114.114.114 https://223.5.5.5/dns-query
+[/m2ucam.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/m3-cloud.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/m3cqjc3og6.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/m3guo.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -64950,6 +64961,7 @@
 [/mdnice.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/mdouvip.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/mdouwz.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/mdown.asia/]114.114.114.114 https://223.5.5.5/dns-query
 [/mdpda.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/mdpetrotech.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/mdrmyy.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -69216,6 +69228,7 @@
 [/niuk12020gi.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/niukk.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/niuming147.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/niumowang.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/niunai.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/niuniufund.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/niupiano.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -71521,6 +71534,7 @@
 [/orayimg.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/orbiepharm.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/orbitmes.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/orbrand.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/orcadt.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/orchome.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/orcode.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -74590,6 +74604,7 @@
 [/qgxl.org/]114.114.114.114 https://223.5.5.5/dns-query
 [/qgyqshz.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/qgysj.org/]114.114.114.114 https://223.5.5.5/dns-query
+[/qgyyl.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/qgyyzs.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/qgzb.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/qgzxx.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -89959,6 +89974,7 @@
 [/toast.pub/]114.114.114.114 https://223.5.5.5/dns-query
 [/toaw.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/tobaccochina.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/tobaccodb.org/]114.114.114.114 https://223.5.5.5/dns-query
 [/tobaccosz.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/tobebetterjavaer.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/toberp.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -90964,6 +90980,7 @@
 [/ttnea.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ttnongli.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ttnqh.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/ttoffice.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/ttongda.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ttpaicdn.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/ttpaihang.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -95151,6 +95168,7 @@
 [/weishigz.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/weishipin.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/weishishuyuan.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/weishucdn.cloud/]114.114.114.114 https://223.5.5.5/dns-query
 [/weisiliang.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/weismarts.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/weistang.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -99805,6 +99823,7 @@
 [/xindong.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xindongdinglv.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xindonghuyu123.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/xindonshan.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xindu.cc/]114.114.114.114 https://223.5.5.5/dns-query
 [/xinduo.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xinduoad.com/]114.114.114.114 https://223.5.5.5/dns-query
@@ -100152,6 +100171,7 @@
 [/xinruiweb.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xinsanbanbao.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xinsankeji.com/]114.114.114.114 https://223.5.5.5/dns-query
+[/xinsannong.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xinsdn.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xinsenz.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xinsf.cc/]114.114.114.114 https://223.5.5.5/dns-query
@@ -101982,6 +102002,7 @@
 [/xxkucun.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xxkxjx.net/]114.114.114.114 https://223.5.5.5/dns-query
 [/xxkxw.net/]114.114.114.114 https://223.5.5.5/dns-query
+[/xxlab.tech/]114.114.114.114 https://223.5.5.5/dns-query
 [/xxlcn.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xxlifexx.com/]114.114.114.114 https://223.5.5.5/dns-query
 [/xxliudsp.com/]114.114.114.114 https://223.5.5.5/dns-query
